@@ -10,7 +10,7 @@ const Deals = () => {
           <div className='w-[95px] h-[85px] bg-stone-500 border-2 border-black text-center hover:text-white'><h2 className=' text-black text-4xl font-black '>08</h2><span className=' font-semibold'>Hour</span></div>
           <div className='w-[95px] h-[85px] bg-stone-500 border-2 border-black text-center hover:text-white'><h2 className=' text-black text-4xl font-black'>09</h2><span className=' font-semibold'>Minute</span></div>
         </div>
-        <button className='w-[162px] h-[50px] bg-stone-950 rounded-lg justify-center items-center gap-2.5 text-white mt-14 hover:border-2 hover:border-red-400'>START</button>
+        <button className='w-[162px] h-[50px] bg-stone-900 rounded-lg justify-center items-center gap-2.5 text-white mt-14 hover:border-2 hover:border-red-400'>START</button>
         </div>
     </section>
   )

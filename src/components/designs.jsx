@@ -5,7 +5,7 @@ const Designs = () => {
     <section className='w-full h-full pt-24 overflow-x-hidden'>
         <div className='text-center'>
             <h2 className='text-zinc-900 text-[64px] font-medium'>Designer Clothes For You</h2>
-             <p className='text-zinc-600 text-xl font-medium'>Immerse yourself in the world of luxury fashion with our meticulously crafted designer clothes!</p>
+             <p className='text-zinc-700 text-xl font-medium'>Immerse yourself in the world of luxury fashion with our meticulously crafted designer clothes!</p>
         </div>
 
         <div className='flex gap-6 justify-center pt-16'>

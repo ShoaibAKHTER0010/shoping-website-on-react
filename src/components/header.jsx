@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <section className='w-full overflow-x-hidden lg:w-full bg-[#EEDDCC] sm:overflow-hidden '>
       <div className='w-full flex flex-col md:flex-row justify-between px-4 sm:p-3 sm:ml-14 '>
-        <div className="text-stone-800 text-3xl font-bold font-Poppins tracking-tight hover:text-red-600">Style</div>
+        <div className="text-stone-800 text-3xl font-bold font-Poppins tracking-tight hover:text-green-800">Style</div>
 
         <div className='flex flex-col md:flex-row text-black text-xl font-medium list-none py-2  hover:cursor-pointer md:gap-10 sm:gap-2 lg:gap-12'>
           <li className='hover:underline'>SHOP</li>

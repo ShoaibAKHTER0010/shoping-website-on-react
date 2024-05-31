@@ -15,15 +15,15 @@ const Product = () => {
 
         <div className='grid grid-cols-4 pt-20 pl-14 gap-y-12 '>
             <div className='hover:shadow-xl w-[270px] h-[400px] rounded-md'><img src="./images/img-8.png" alt="img-8" className='w-full hover:rounded-full'/><p className="text-center text-neutral-700 text-base font-semibold font-['Poppins'] lg:pt-10 md:pt-6">Spread Collar Shirt
-          <p>$110.99
+          <p>$109.99
 <button  className=' border-grey-500 border-l-2 pl-6 ml-6 inline-flex'>5.0 <span  className='pt-1 '><IoMdStar className='text-yellow-500'/></span></button></p></p></div>
 
             <div className='hover:shadow-xl w-[270px] h-[400px] rounded-md'><img src="./images/img-9.png" alt="img-9" className='w-full hover:rounded-full'/><p className="text-center text-neutral-700 text-base font-semibold font-['Poppins'] lg:pt-10 md:pt-6">Printed T-shirt
-          <p>$149.99
+          <p>$139.99
 <button  className=' border-grey-500 border-l-2 pl-6 ml-6 inline-flex'>5.0 <span  className='pt-1 '><IoMdStar /></span></button></p></p></div>
 
             <div className='hover:shadow-xl w-[270px] h-[400px] rounded-md'><img src="./images/img-10.png" alt="img-10" className=' w-full hover:rounded-full'/><p className="text-center text-neutral-700 text-base font-semibold font-['Poppins'] lg:pt-10 md:pt-6">Gray Padded Jacket
-          <p>$139.99
+          <p>$129.99
 <button  className=' border-grey-500 border-l-2 pl-6 ml-6 inline-flex'>4.5 <span  className='pt-1 '><IoMdStar /></span></button></p></p></div>
 
             <div className='hover:shadow-xl w-[270px] h-[400px] rounded-md'><img src="./images/img-11.png" alt="img-11" className='w-full hover:rounded-full h-[310px]'/><p className="text-center text-neutral-700 text-base font-semibold font-['Poppins'] lg:pt-10 md:pt-6">Spread Collar Shirt
@@ -35,7 +35,7 @@ const Product = () => {
 <button  className=' border-grey-500 border-l-2 pl-6 ml-6 inline-flex'>3.9 <span  className='pt-1 '><IoMdStar /></span></button></p></p></div>
 
             <div className='hover:shadow-xl w-[270px] h-[400px] rounded-md'><img src="./images/img-13.png" alt="img-13" className='bg-[#D2B79E] h-[310px] w-full hover:rounded-full'/><p className="text-center text-neutral-700 text-base font-semibold font-['Poppins'] lg:pt-10 md:pt-6">Sun Shine half shirt
-          <p>$.99
+          <p>$23.99
 <button  className=' border-grey-500 border-l-2 pl-6 ml-6 inline-flex'>4.4 <span  className='pt-1 '><IoMdStar /></span></button></p></p></div>
 
             <div className='hover:shadow-xl w-[270px] h-[400px] rounded-md'><img src="./images/img-4.png" alt="img-14" className='bg-[#D2B79E] h-[310px] w-full hover:rounded-full'/><p className="text-center text-neutral-700 text-base font-semibold font-['Poppins'] lg:pt-10 md:pt-6">White Solid Formal Shirt
@@ -43,7 +43,7 @@ const Product = () => {
 <button  className=' border-grey-500 border-l-2 pl-6 ml-6 inline-flex'>4.6 <span  className='pt-1 '><IoMdStar /></span></button></p></p></div>
 
             <div className='hover:shadow-xl w-[270px] h-[400px] rounded-md'><img src="./images/img-15.png" alt="img-15" className='h-[310px] w-full hover:rounded-full'/><p className="text-center text-neutral-700 text-base font-semibold font-['Poppins'] lg:pt-10 md:pt-6">Tailored Jacket
-          <p>$270.99
+          <p>$199.99
 <button  className=' border-grey-500 border-l-2 pl-6 ml-6 inline-flex'>5.0 <span  className='pt-1 '><IoMdStar /></span></button></p></p></div>
 
         </div>
